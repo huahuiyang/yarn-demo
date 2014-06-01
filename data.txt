@@ -1,0 +1,6 @@
+hadoop yarn
+mapreduce 
+hello redis 
+java hadoop
+hello world
+here we go
