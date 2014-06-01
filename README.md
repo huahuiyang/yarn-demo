@@ -3,7 +3,8 @@ yarn-demo
 
 
 运行示例：
-hadoop jar ~/wordcount.jar com.yhh.mapreduce.wordcount.WordCount <input-file> <output-dir>
+
+hadoop jar ~/wordcount.jar com.yhh.mapreduce.wordcount.WordCount input-file output-dir
 
 hadoop jar ~/wordcount.jar com.yhh.mapreduce.wordcount.WordCount data.txt /wordcount/result
 
