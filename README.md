@@ -9,10 +9,15 @@ hadoop jar ~/wordcount.jar com.yhh.mapreduce.wordcount.WordCount data.txt /wordc
 
 data.txt格式如下：（每行包含一个或多个单词，空格分开）
 hadoop yarn
+
 mapreduce
+
 hello redis
+
 java hadoop
+
 hello world
+
 here we go
 
 
