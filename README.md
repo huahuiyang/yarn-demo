@@ -11,4 +11,4 @@ hadoop jar ~/wordcount.jar com.yhh.mapreduce.wordcount.WordCount data.txt /wordc
 
 data.txt format: split with space, one line contaians one or more words
 
-I write down detail in my blog: http://www.cnblogs.com/yanghuahui/p/3763820.html
+I write down details in my blog: http://www.cnblogs.com/yanghuahui/p/3763820.html
