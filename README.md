@@ -1,14 +1,14 @@
 yarn-demo
 =========
 
+a wordcount mapreduce demo run on yarn
 
-运行示例：
+run as:
 
 hadoop jar ~/wordcount.jar com.yhh.mapreduce.wordcount.WordCount input-file output-dir
 
 hadoop jar ~/wordcount.jar com.yhh.mapreduce.wordcount.WordCount data.txt /wordcount/result
 
-data.txt格式：每行包含一个或多个单词，空格分开
+data.txt format: split with space, one line contaians one or more words
 
-
-具体用法可以看博客：http://www.cnblogs.com/yanghuahui/p/3763820.html
+I write down detail in my blog: http://www.cnblogs.com/yanghuahui/p/3763820.html
